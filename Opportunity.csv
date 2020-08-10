@@ -1,4 +1,2 @@
 "Guid","AccountId","Amount","CloseDate","ContactId","Description","ForecastCategoryName","LeadSource","Name","NextStep","Probability","SBQQ__Contracted__c","SBQQ__CreateContractedPrices__c","SBQQ__OrderGroupID__c","SBQQ__Ordered__c","SBQQ__QuotePricebookId__c","SBQQ__Renewal__c","StageName","Type"
-22b8e3ed-4bf2-48c4-bbb4-2809440ec7ca,1b329c36-b98d-4eb1-8b40-3271f1934d65,2.0,2020-08-07,"#N/A","#N/A",Pipeline,"#N/A",40 Comp Opp,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,"#N/A"
-6f486b25-a360-443d-a88a-dbb6d53779ad,6ccd142e-049f-4c46-b781-c38fdf7a7d5a,"#N/A",2020-08-07,"#N/A","#N/A",Pipeline,"#N/A",Best Opp 100,"#N/A",50.0,false,false,"#N/A",false,"#N/A",false,Value Proposition,"#N/A"
-e931681a-beec-411a-8cfb-9d4f145f6e69,c0f6dd4c-e40a-4b77-9777-44dbdcce0573,"#N/A",2020-08-07,"#N/A","#N/A",Pipeline,"#N/A",YAK Opp,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Qualification,"#N/A"
+aa7e9792-34e8-49e3-9117-5425d578c0aa,50ea944e-9f8e-40d2-a3ce-6012add4308e,"#N/A",2020-07-28,"#N/A","#N/A",Pipeline,"#N/A",Test Opp2,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,"#N/A"
